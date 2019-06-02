@@ -377,4 +377,4 @@ This will take you to a page with all of the details you never wanted to know
 about grep. You can scroll up and down with arrow keys, or quit by pressing
 `q`. There are man pages for pretty much every command. 
 
-# I will try the commit line today. #
+# I will try the command line today. This is interesting #
